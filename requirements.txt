@@ -1,0 +1,6 @@
+line-bot-sdk
+flask
+pymongo
+matplotlib
+datetime
+html5lib
